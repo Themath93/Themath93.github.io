@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Welcome!! Yoon's bolg
+description: "데이터 엔지니어링 공부를 하고 있습니다."
 url: https://themath93.github.io/
 avatar: /avatar.jpeg
 paginate: 5
@@ -34,10 +34,10 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Yoon Byeong Woo
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/Themath93
+    - https://github.com/Themath93
 google_site_verification: xxxxx
 lang: en
 
@@ -55,6 +55,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Yoon Byeong Woo
+  url: https://github.com/Themath93
+  email: lms46784678@gmail.com
