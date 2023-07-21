@@ -1,9 +1,9 @@
-- type: dates
-  title: Dates
-  url: /dates/
+# - type: home
+#   title: Home
+#   url: /
 #- type: categories
 #  title: Categories
 #  url: /categories/
-- type: studies
-  title: My Study
-  url: /studies/
+# - type: studies
+#   title: My Study
+#   url: /studies/
