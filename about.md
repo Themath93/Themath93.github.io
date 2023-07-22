@@ -4,7 +4,7 @@ title: About
 ---
 
 # 🔧Data Engineer
-- Every thing inside the Data
+- Everything is in DATA
 
 ## 😊Interest
 - Ditributed System
