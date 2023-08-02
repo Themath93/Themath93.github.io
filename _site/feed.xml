@@ -1,6 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-07-22T07:40:00+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Welcome!! Yoon’s bolg</title><subtitle>데이터 엔지니어링 공부를 하고 있습니다.</subtitle><author><name>Yoon Byeong Woo</name><email>lms46784678@gmail.com</email></author><entry><title type="html">My studies</title><link href="http://localhost:4000/2023/07/22/my-studies/" rel="alternate" type="text/html" title="My studies" /><published>2023-07-22T00:18:00+09:00</published><updated>2023-07-22T00:18:00+09:00</updated><id>http://localhost:4000/2023/07/22/my-studies</id><content type="html" xml:base="http://localhost:4000/2023/07/22/my-studies/"><![CDATA[<h1 id="my-studies">My Studies</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-08-02T11:27:54+09:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Welcome!! Yoon’s bolg</title><subtitle>데이터 엔지니어링 공부를 하고 있습니다.</subtitle><author><name>Yoon Byeong Woo</name><email>lms46784678@gmail.com</email></author><entry><title type="html">OpenSearch 4개 Node로 클러스터 환경 구성해보기</title><link href="http://0.0.0.0:4000/2023/08/01/OpenSearch-Cluster/" rel="alternate" type="text/html" title="OpenSearch 4개 Node로 클러스터 환경 구성해보기" /><published>2023-08-01T12:00:00+09:00</published><updated>2023-08-01T12:00:00+09:00</updated><id>http://0.0.0.0:4000/2023/08/01/OpenSearch-Cluster</id><content type="html" xml:base="http://0.0.0.0:4000/2023/08/01/OpenSearch-Cluster/"><![CDATA[<h1 id="opensearch">Opensearch</h1>
 
-<h2 id="노션링크로-이동-"><a href="https://lizard-dive-9a3.notion.site/My-Study-cb98000c0fde403a8cfe1fc20e3ff8ce?pvs=4">노션링크로 이동 !</a></h2>]]></content><author><name>Yoon Byeong Woo</name><email>lms46784678@gmail.com</email></author><category term="Distributed System" /><category term="AWS" /><category term="Logging" /><category term="Monitoring" /><summary type="html"><![CDATA[My Studies]]></summary></entry><entry><title type="html">Projects</title><link href="http://localhost:4000/2022/11/18/LookforDoc/" rel="alternate" type="text/html" title="Projects" /><published>2022-11-18T16:32:00+09:00</published><updated>2022-11-18T16:32:00+09:00</updated><id>http://localhost:4000/2022/11/18/LookforDoc</id><content type="html" xml:base="http://localhost:4000/2022/11/18/LookforDoc/"><![CDATA[<h3 id="project-list">Project List</h3>
+<h4 id="docker-compose">Docker compose</h4>
+<ul>
+  <li>원래는 기존의 싱글노드 파이프라인은 보통 AWS EC2 에서 진행하지만</li>
+  <li>AWS EC2 Instance 의 개수를 몇 개 만들어 사용하였더니…
+    <ul>
+      <li><img src="/assets/img/aws_billing.png" alt="AWS BILLING 텍스트" /></li>
+      <li>요금이 꽤나 청구되었다. ㅜㅜ..</li>
+    </ul>
+  </li>
+  <li>4개의 node 가 필요한 이번 pratice 는 docker-compose로 해보았다.</li>
+</ul>
+
+<h4 id="get-start">Get Start!</h4>
+<ul>
+  <li><a href="https://github.com/Themath93/opensearch-cluster">Git Hub 링크</a>
+    <ul>
+      <li>해당 링크에서는 OpenSearch를 활용하여 간단한 클러스터 환경을 빠르게 구성해볼 수 있도록 해보았다.</li>
+    </ul>
+  </li>
+</ul>]]></content><author><name>Yoon Byeong Woo</name><email>lms46784678@gmail.com</email></author><category term="OpenSearch" /><category term="Docker" /><category term="docker-compose" /><category term="Distributed System" /><category term="ElasticSearch" /><category term="ELK" /><category term="EFK" /><summary type="html"><![CDATA[Opensearch]]></summary></entry><entry><title type="html">My studies</title><link href="http://0.0.0.0:4000/2023/07/22/my-studies/" rel="alternate" type="text/html" title="My studies" /><published>2023-07-22T00:18:00+09:00</published><updated>2023-07-22T00:18:00+09:00</updated><id>http://0.0.0.0:4000/2023/07/22/my-studies</id><content type="html" xml:base="http://0.0.0.0:4000/2023/07/22/my-studies/"><![CDATA[<h1 id="my-studies">My Studies</h1>
+
+<h2 id="노션링크로-이동-"><a href="https://lizard-dive-9a3.notion.site/My-Study-cb98000c0fde403a8cfe1fc20e3ff8ce?pvs=4">노션링크로 이동 !</a></h2>]]></content><author><name>Yoon Byeong Woo</name><email>lms46784678@gmail.com</email></author><category term="Distributed System" /><category term="AWS" /><category term="Logging" /><category term="Monitoring" /><summary type="html"><![CDATA[My Studies]]></summary></entry><entry><title type="html">Projects</title><link href="http://0.0.0.0:4000/2022/11/18/LookforDoc/" rel="alternate" type="text/html" title="Projects" /><published>2022-11-18T16:32:00+09:00</published><updated>2022-11-18T16:32:00+09:00</updated><id>http://0.0.0.0:4000/2022/11/18/LookforDoc</id><content type="html" xml:base="http://0.0.0.0:4000/2022/11/18/LookforDoc/"><![CDATA[<h3 id="project-list">Project List</h3>
 
 <ul>
   <li>
