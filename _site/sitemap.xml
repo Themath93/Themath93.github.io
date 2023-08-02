@@ -1,30 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://0.0.0.0:4000/2022/11/18/LookforDoc/</loc>
-<lastmod>2022-11-18T16:32:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://0.0.0.0:4000/2023/07/22/my-studies/</loc>
-<lastmod>2023-07-22T00:18:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://0.0.0.0:4000/2023/08/01/OpenSearch-Cluster/</loc>
-<lastmod>2023-08-01T12:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://0.0.0.0:4000/about/</loc>
-</url>
-<url>
-<loc>http://0.0.0.0:4000/categories/</loc>
-</url>
-<url>
-<loc>http://0.0.0.0:4000/dates/</loc>
-</url>
-<url>
-<loc>http://0.0.0.0:4000/</loc>
-</url>
-<url>
-<loc>http://0.0.0.0:4000/studies/</loc>
-</url>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>http://0.0.0.0:4000/2023/08/01/OpenSearch-Cluster/</loc>
+        
+        <lastmod>2023-08-01T12:00:00+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>http://0.0.0.0:4000/2023/07/22/my-studies/</loc>
+        
+        <lastmod>2023-07-22T00:18:00+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>http://0.0.0.0:4000/2022/11/18/LookforDoc/</loc>
+        
+        <lastmod>2022-11-18T16:32:00+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
 </urlset>
